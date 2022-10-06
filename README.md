@@ -10,7 +10,7 @@ Reads the ID of the health card from the chip and sends it in keyboard emulation
 
 Programming languages used: C #
 
-# Mantainers
+## Mantainers
 - Marco Bimbati
 - Mattia Trombon
 - Francesca Reale
